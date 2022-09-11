@@ -1,6 +1,6 @@
 # Increment-counter-Page
 
-after landing the page its count automatically, social media followers and after reach the end of the count it stopped.
+After landing on the page it counts  social media followers automatically, And after reach the end of the count it stopped.
 
 ### Technologies ###
 <br>JavaScript
